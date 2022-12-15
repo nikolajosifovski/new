@@ -10,5 +10,5 @@ public class GitTest {
 		
 	}
 	//comment 1
-	//commnet 2
+	//comment 2
 }
